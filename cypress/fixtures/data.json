@@ -1,0 +1,14 @@
+{
+  "login": {
+    "staffUsername": "BO-GLO191",
+    "staffPasscode": "12345678",
+    "newuserUsername": "FA-BMMF1S",
+    "newuserPasscode": "BMMF1S",
+    "fieldagentUsername": "FA-7ZDL3X",
+    "fieldagentPasscode": "12345678",
+    "customerUsername": "C-08095670397",
+    "customerPasscode": "12345678",
+    "invalidUsername": "BO-1234",
+    "invalidPasscode": "1234"
+  }
+}
